@@ -1,4 +1,4 @@
-let nombre = "Matias";
+let nombres = "Matias";
 let numero = 27;
 let simbolo = '$';
 let verdadero = true;
