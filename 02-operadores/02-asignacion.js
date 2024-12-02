@@ -1,0 +1,18 @@
+let a = 5;
+let b = 5;
+let c = 5;
+let d = 5;
+let e = 5;
+let f = 5;
+a += 5;
+b -= 5;
+c *= 5;
+d /= 5;
+e **= 5;
+f %= 5;
+console.log(a, "le asigno una suma");
+console.log(b, "le asigno una resta");
+console.log(c, "le asigno una multiplicación");
+console.log(d, "le asigno una división");
+console.log(e, "le asigno una potencia");
+console.log(f, "le asigno un módulo");
